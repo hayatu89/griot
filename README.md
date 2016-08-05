@@ -1,2 +1,2 @@
 # griot
-Website for Ummi Yakubu
+Website for Griot Productions
